@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1615758034 source:c:\users\vaibh\desktop\ccpp\oopmicro\main.cpp
+	<iostream>
+	<windows.h>
+	<sstream>
+
